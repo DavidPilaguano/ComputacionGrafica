@@ -1,0 +1,17 @@
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\bin\Debug\Curvas Bezier y B Spline.exe.config
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\bin\Debug\Curvas Bezier y B Spline.exe
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\bin\Debug\Curvas Bezier y B Spline.pdb
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas Bezier y B Spline.csproj.AssemblyReference.cache
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.FrmHome.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.Properties.Resources.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.View.FrmBezierCuadratica.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.View.FrmBezierCubica.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.View.FrmBezierGradoN.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas Bezier y B Spline.csproj.GenerateResource.cache
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas Bezier y B Spline.csproj.CoreCompileInputs.cache
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas Bezier y B Spline.exe
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas Bezier y B Spline.pdb
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas Bezier y B Spline.exe.config
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.View.FrmBSplineCoxDeBoor.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.View.FrmBSplineDeCasteljauGeneral.resources
+D:\Computacion Grafica\Curva Bezier y B-Spline\Curvas Bezier y B Spline\Curvas Bezier y B Spline\obj\Debug\Curvas_Bezier_y_B_Spline.View.FrmBSplineMatriz.resources

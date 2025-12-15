@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\model\\b_spline_matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\model\\b_spline_matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\model\\b_spline_coxdeboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\model\\b_spline_coxdeboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbeziergradon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbeziergradon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbeziergradon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbeziergradon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\model\\bezierdecasteljau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\model\\bezierdecasteljau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbeziercubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbeziercubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbeziercubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbeziercubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\model\\beziercubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\model\\beziercubica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\model\\b_spline_deboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\model\\b_spline_deboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbeziercuadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbeziercuadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbeziercuadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbeziercuadratica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\model\\bezierlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\model\\bezierlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbsplinematriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbsplinematriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbsplinematriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbsplinematriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbsplinedecasteljaugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbsplinedecasteljaugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbsplinedecasteljaugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbsplinedecasteljaugeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbsplinecoxdeboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbsplinecoxdeboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\view\\frmbsplinecoxdeboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\view\\frmbsplinecoxdeboor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|d:\\computacion grafica\\curva bezier y b-spline\\curvas bezier y b spline\\curvas bezier y b spline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E453FE-3D74-49D6-A543-26E6C4BC29C4}|Curvas Bezier y B Spline\\Curvas Bezier y B Spline.csproj|solutionrelative:curvas bezier y b spline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBezierCubica.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:54:23.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBezierCubica.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBezierCubica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:07:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BezierDeCasteljau.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\BezierDeCasteljau.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Model\\BezierDeCasteljau.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\BezierDeCasteljau.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Model\\BezierDeCasteljau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:15:48.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBezierGradoN.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:54:32.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBezierGradoN.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBezierGradoN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:22:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B_Spline_CoxDeBoor.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\B_Spline_CoxDeBoor.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Model\\B_Spline_CoxDeBoor.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\B_Spline_CoxDeBoor.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Model\\B_Spline_CoxDeBoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:04:35.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B_Spline_Matriz.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\B_Spline_Matriz.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Model\\B_Spline_Matriz.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\B_Spline_Matriz.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Model\\B_Spline_Matriz.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:04:55.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BezierCubica.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\BezierCubica.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Model\\BezierCubica.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\BezierCubica.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Model\\BezierCubica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:07:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "B_Spline_DeBoor.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\B_Spline_DeBoor.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Model\\B_Spline_DeBoor.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\B_Spline_DeBoor.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Model\\B_Spline_DeBoor.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:05:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBezierCuadratica.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:57:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmBezierCuadratica.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBezierCuadratica.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:52:59.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BezierLogic.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\BezierLogic.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Model\\BezierLogic.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Model\\BezierLogic.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Model\\BezierLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:57:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmBSplineMatriz.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAArwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:10:39.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBSplineMatriz.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBSplineMatriz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:29:46.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBSplineDeCasteljauGeneral.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAiwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:10:32.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmBSplineDeCasteljauGeneral.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBSplineDeCasteljauGeneral.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:30:42.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmBSplineCoxDeBoor.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwJIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:07:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmBSplineCoxDeBoor.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\View\\FrmBSplineCoxDeBoor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:28:38.077Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\FrmHome.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\FrmHome.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\FrmHome.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:51:57.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\FrmHome.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\FrmHome.cs [Design]",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:49:52.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Program.cs",
+              "RelativeDocumentMoniker": "Curvas Bezier y B Spline\\Program.cs",
+              "ToolTip": "D:\\Computacion Grafica\\Curva Bezier y B-Spline\\Curvas Bezier y B Spline\\Curvas Bezier y B Spline\\Program.cs",
+              "RelativeToolTip": "Curvas Bezier y B Spline\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:45:36.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
